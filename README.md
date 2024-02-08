@@ -1,5 +1,5 @@
-# unquotedPoC
-This is Visual C# code that will create a new user named "mcfatty" when run as a service.
+# unquotedPoC fork
+This is Visual C# code that will create a service executable to spawn a netcat reverse shell. Code needs to be modified in SimpleService.Designer.cs file. Also there might need to be changes to the AssemblyInfo portion.
 
 The installer portion turned out to be unnecessary.
 
